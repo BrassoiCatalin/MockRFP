@@ -1,9 +1,45 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.2.1">
   <diagram name="Page-1" id="DAnPCf4ixe80RgCIWLai">
-    <mxGraphModel>
+    <mxGraphModel dx="1233" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3IPvbb-K9qUVAM08qc72-5" edge="1" parent="1" source="3IPvbb-K9qUVAM08qc72-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="3IPvbb-K9qUVAM08qc72-3" value="Manages configuration and resources">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3IPvbb-K9qUVAM08qc72-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;verticalAlign=top;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Admin&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="10" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="3IPvbb-K9qUVAM08qc72-6" edge="1" parent="1" source="3IPvbb-K9qUVAM08qc72-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3IPvbb-K9qUVAM08qc72-3" value="Access analytic dashboard">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3IPvbb-K9qUVAM08qc72-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;verticalAlign=top;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Analyst&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="10" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="3IPvbb-K9qUVAM08qc72-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Customer Intelligence Platform (CIP)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="285" x="470" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="3IPvbb-K9qUVAM08qc72-7" edge="1" parent="1" source="3IPvbb-K9qUVAM08qc72-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="3IPvbb-K9qUVAM08qc72-3" value="Access analytic dashboard">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IPvbb-K9qUVAM08qc72-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;verticalAlign=top;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Marketing&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="240" x="10" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="3IPvbb-K9qUVAM08qc72-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Manages system configuration and operations" vertex="1">
+          <mxGeometry height="30" width="220" x="20" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="3IPvbb-K9qUVAM08qc72-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Analyzes customer data" vertex="1">
+          <mxGeometry height="30" width="240" x="10" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="3IPvbb-K9qUVAM08qc72-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Has access to KPIs such as &lt;br&gt;customer count, CLV, purchase frequency, &lt;br&gt;churn rate, etc." vertex="1">
+          <mxGeometry height="60" width="260" y="450" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
