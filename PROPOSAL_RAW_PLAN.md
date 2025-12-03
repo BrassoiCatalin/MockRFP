@@ -140,19 +140,31 @@ WIP
 # 7. Timeline
 
 ### What it is: Key dates: proposal submission, Q&A sessions, demos, award date, project start and duration.
-
+12th of January
 ### What you should do:
 
 - [ ] Prepare your internal planning accordingly.
 
-- [ ] Confirm you can meet the client’s schedule.
+We propose to start the project on the 12th of January, once the new year begins and after the holidays period. The project will 
+take around two months to complete. Sprints will take two weeks and after each one there will be a demo to showcase what 
+has been achieved until that point. If there will be no complications or cooperation issues, the client will have the project 
+ready for production by the 12th of March 2026.
+
+- [ ] Confirm you can meet the client’s schedule. -> What does this mean? Schedule for project deadline or day-to-day schedule for
+continuous cooperation?
 
 - [ ] Include realistic milestones and dependencies in your proposal.
+
+Milestones:
+- functional API for requests
+- functional GUI
+- preparing the data ingestion from multiple sources
+- integrating authetication inside the app
+- ?
 
 # 8. Vendor Instructions
 
 ### What it is: How the client wants proposals to be submitted: structure, format, page limits, attachments, submission portal, etc.
-
 
 ### What you should do:
 
