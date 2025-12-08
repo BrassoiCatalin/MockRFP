@@ -99,10 +99,8 @@ Technical compatibility as in technologies working with each other or the team h
 
 Architecture:
 
-The architecture that will be used will be one of microservices, since we will be responsible of many services that 
-will communicate with each other.
-
-(Or should this be Client-Server architecture since we have backend-frontend??)
+The architecture that will be used will be client-server, since there will be one point of access in the application
+(frontend), which will communicate with a single API.
 
 Tools:
 
