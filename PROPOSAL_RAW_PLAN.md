@@ -146,7 +146,7 @@ WIP
 We propose to start the project on the 12th of January, once the new year begins and after the holidays period. The project will 
 take around two months to complete. Sprints will take two weeks and after each one there will be a demo to showcase what 
 has been achieved until that point. If there will be no complications or cooperation issues, the client will have the project 
-ready for production by the 12th of March 2026.
+ready for production by the 13th of March 2026.
 
 - [ ] Confirm you can meet the client’s schedule. -> What does this mean? Schedule for project deadline or day-to-day schedule for
 continuous cooperation?
